@@ -15,7 +15,7 @@
             }
         },
         created:function () {
-            this.$emit('header', false);
+            // this.$emit('header', false);
         }
     }
 </script>
